@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Homework Tracker Sample//EN
+BEGIN:VEVENT
+UID:sample1@example.com
+SUMMARY:Lab 1 Submission
+DTSTART:20240412T235900Z
+DESCRIPTION:Upload to Canvas before midnight.
+END:VEVENT
+END:VCALENDAR
